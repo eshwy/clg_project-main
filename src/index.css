@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Oswald:wght@200..700&family=Tektur:wght@400..900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
